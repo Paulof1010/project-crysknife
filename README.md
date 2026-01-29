@@ -11,7 +11,6 @@
 
 ## 🎯 Project Goal
 
-<p align="justify">
 We are <strong>Crysknife</strong>, a team of Codeforall students, trying to build our very first game using Java and the SimpleGFX library. The main objective is to <strong>reach a target score within a set time</strong> in a fast-paced arcade environment.
 </p>
 
@@ -20,17 +19,16 @@ We are <strong>Crysknife</strong>, a team of Codeforall students, trying to buil
 ## 🧩 Overview
 
 This repository contains the source code, assets, and documentation for our Java-based game project. The game was developed using <strong>object-oriented programming principles</strong> and designed for <strong>cross-platform compatibility</strong>.
-</p>
 
 <strong>Gameplay Highlights:</strong>
-</p>
+
 - Player controls a **sword** to eliminate **worms**.  
 - Worms move **randomly** and disappear once defeated.  
 - **Score and time tracking** determine progression.  
 - Game screens include: **Game Menu**, **Gameplay**, **Game Over**, and **Winning**.
 
 <strong>Challenges & Learning Goals:</strong>
-</p>
+
 - Loading and managing **images** for player, enemies, and backgrounds.  
 - Implementing **sound effects** for actions and events.  
 - Designing clear **gameplay rules**.  
