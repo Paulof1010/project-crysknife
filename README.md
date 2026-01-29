@@ -29,7 +29,8 @@ This repository contains the source code, assets, and documentation for our Java
 - Player controls a **sword** to eliminate **worms**.  
 - Worms move **randomly** and disappear once defeated.  
 - **Score and time tracking** determine progression.  
-- Game screens include: **Game Menu**, **Gameplay**, **Game Over**, and **Winning**.  
+- Game screens include: **Game Menu**, **Gameplay**, **Game Over**, and **Winning**.
+
 
 <p align="justify">
 <strong>Challenges & Learning Goals:</strong>
