@@ -31,6 +31,7 @@ This repository contains the source code, assets, and documentation for our Java
 - **Score and time tracking** determine progression.  
 - Game screens include: **Game Menu**, **Gameplay**, **Game Over**, and **Winning**.
 
+<br>
 
 <p align="justify">
 <strong>Challenges & Learning Goals:</strong>
