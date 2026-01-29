@@ -19,11 +19,9 @@ We are <strong>Crysknife</strong>, a team of Codeforall students, trying to buil
 
 ## 🧩 Overview
 
-<p align="justify">
 This repository contains the source code, assets, and documentation for our Java-based game project. The game was developed using <strong>object-oriented programming principles</strong> and designed for <strong>cross-platform compatibility</strong>.
 </p>
 
-<p align="justify">
 <strong>Gameplay Highlights:</strong>
 </p>
 - Player controls a **sword** to eliminate **worms**.  
@@ -31,9 +29,6 @@ This repository contains the source code, assets, and documentation for our Java
 - **Score and time tracking** determine progression.  
 - Game screens include: **Game Menu**, **Gameplay**, **Game Over**, and **Winning**.
 
-<br>
-
-<p align="justify">
 <strong>Challenges & Learning Goals:</strong>
 </p>
 - Loading and managing **images** for player, enemies, and backgrounds.  
